@@ -1,5 +1,3 @@
-Week 3 of IT221
+Week 11 of IT221
 
-Class 2
-
-Chapter 4 - Message Board App
+Chapter 2 - Hello World App
